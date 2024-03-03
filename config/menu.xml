@@ -1,0 +1,10 @@
+<config>
+  <obj type="Include" config="base"/>
+
+  <obj type="QuickMenu" name="menu">
+    <item type="text" text="FPS-Kit"/>
+    <item type="button" text="Original Level" target="test"/>
+    <item type="button" text="Cove Level" target="cove-normal"/>
+    <item type="button" text="Cove Level (No sun)" target="cove"/>
+  </obj>
+</config>
